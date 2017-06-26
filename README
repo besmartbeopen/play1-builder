@@ -1,0 +1,8 @@
+= play1-builder
+
+The play1-builder image contains:
+
+- playframework 1.4.x
+- rsync
+- ssh client
+- fabric (fabfile.org)
