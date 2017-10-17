@@ -1,4 +1,4 @@
-FROM criluc/play1:1.4.2-patched
+FROM criluc/play1:1.5.0
 MAINTAINER Marco Andreini <marco.andreini@gmail.com>
 
 USER root
